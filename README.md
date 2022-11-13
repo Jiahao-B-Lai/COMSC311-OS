@@ -1,1 +1,2 @@
-# COMSC311-OS
+# PSU COMSC311-OS
+Intro to Operating System 
